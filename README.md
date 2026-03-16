@@ -9,8 +9,6 @@
   <br>
   <sub>A macOS menu bar app that blurs your entire screen except the focused window.</sub>
   <br><br>
-  <a href="https://github.com/echohtp/blurryboi-releases/releases/latest"><img src="https://img.shields.io/github/v/release/echohtp/blurryboi-releases?style=flat-square&color=5e5ce6&label=latest" alt="Latest Release"></a>
-  <a href="https://github.com/echohtp/blurryboi-releases/releases"><img src="https://img.shields.io/github/downloads/echohtp/blurryboi-releases/total?style=flat-square&color=bf5af2&label=downloads" alt="Downloads"></a>
   <a href="https://blurryboi.app"><img src="https://img.shields.io/badge/web-blurryboi.app-30d158?style=flat-square" alt="Website"></a>
   <img src="https://img.shields.io/badge/platform-macOS_13+-white?style=flat-square&logo=apple&logoColor=black" alt="macOS 13+">
   <br><br>
